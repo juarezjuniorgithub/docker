@@ -1,2 +1,2 @@
 # docker
-Docker examples (Dockerfiles) for several middleware components
+Docker's Dockerfiles for several middleware components
